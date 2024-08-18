@@ -1,13 +1,12 @@
-PACKAGE NAME: b-g-dist
-
-Source code is located in 'b-g-dist' folder within the 'distributions' folder.
-
 PROJECT DESCRIPTION
 -----------------------
-This project is a python package for calculating and visualizing binomial and gaussian distributions.
+This mini-project is a python package for calculating and visualizing binomial and gaussian distributions.
 
 Purpose: Learning Object-Oriented-Programming in python, implementing inheritance, magic methods, creating classes and objects and learning how to create a python package.
 
+PACKAGE NAME: b-g-dist
+
+Source code is located in 'b-g-dist' folder within the 'distributions' folder.
 
 TECHNOLOGIES
 -----------------------
