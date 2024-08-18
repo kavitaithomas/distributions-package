@@ -4,7 +4,7 @@ PROJECT DESCRIPTION
 -----------------------
 This project is a python package for calculating and visualizing binomial and gaussian distributions.
 
-Purpose: Learning Object-Oriented-Programming in python, implementing inheritance, magic methods, classes and objects and learning how to create and publish a python package to PyPi.
+Purpose: Learning Object-Oriented-Programming in python, implementing inheritance, magic methods, creating classes and objects and learning how to create a python package.
 
 
 TECHNOLOGIES
