@@ -20,16 +20,16 @@ RELEVANT FEATURES
 -----------------------
 Calculations / Operations:
 
-mean
+  - mean
 
-standard deviation
+  - standard deviation
 
-probability density function (pdf)
+  - probability density function (pdf)
 
-plots histograms for Binomial distributions
+  - plots histograms for Binomial distributions
 
-plots histograms for Gaussian distributions
+  - plots histograms for Gaussian distributions
 
-Adds Gaussian distributions together
+  - Adds Gaussian distributions together
 
-Adds Binomial distributions together
+  - Adds Binomial distributions together
